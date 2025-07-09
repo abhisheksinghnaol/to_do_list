@@ -7,7 +7,7 @@ Prerequisites
 
 1. **Clone the repo**  
 
-  git clone https://github.com/your-username/todo-app.git
+  git clone https://github.com/abhisheksinghnaol/to_do_list.git
    cd todo-app
 
 2.**Install dependencies**
